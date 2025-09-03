@@ -1,14 +1,14 @@
 {
   "$GMTileSet":"v1",
-  "%Name":"tileset_dirt",
+  "%Name":"tileset_house_walls",
   "autoTileSets":[],
   "macroPageTiles":{
     "SerialiseHeight":0,
     "SerialiseWidth":0,
     "TileSerialiseData":[],
   },
-  "name":"tileset_dirt",
-  "out_columns":9,
+  "name":"tileset_house_walls",
+  "out_columns":4,
   "out_tilehborder":2,
   "out_tilevborder":2,
   "parent":{
@@ -18,8 +18,8 @@
   "resourceType":"GMTileSet",
   "resourceVersion":"2.0",
   "spriteId":{
-    "name":"spr_dirt",
-    "path":"sprites/spr_dirt/spr_dirt.yy",
+    "name":"spr_wooden_walls",
+    "path":"sprites/spr_wooden_walls/spr_wooden_walls.yy",
   },
   "spriteNoExport":false,
   "textureGroupId":{
@@ -33,6 +33,6 @@
   "tilevsep":0,
   "tileWidth":16,
   "tilexoff":0,
-  "tileyoff":2,
-  "tile_count":88,
+  "tileyoff":0,
+  "tile_count":20,
 }

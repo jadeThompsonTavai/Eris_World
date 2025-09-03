@@ -1,13 +1,13 @@
 {
   "$GMTileSet":"v1",
-  "%Name":"tilest_grass",
+  "%Name":"tileset_grass",
   "autoTileSets":[],
   "macroPageTiles":{
     "SerialiseHeight":0,
     "SerialiseWidth":0,
     "TileSerialiseData":[],
   },
-  "name":"tilest_grass",
+  "name":"tileset_grass",
   "out_columns":9,
   "out_tilehborder":2,
   "out_tilevborder":2,
@@ -33,6 +33,6 @@
   "tilevsep":0,
   "tileWidth":16,
   "tilexoff":0,
-  "tileyoff":0,
-  "tile_count":77,
+  "tileyoff":2,
+  "tile_count":88,
 }
