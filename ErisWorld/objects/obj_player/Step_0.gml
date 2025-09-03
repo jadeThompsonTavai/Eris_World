@@ -1,7 +1,7 @@
 var _hor = keyboard_check(ord("D")) - keyboard_check(ord("A"));
 var _vert = keyboard_check(ord("S")) - keyboard_check(ord("W"));
 
-move_and_collide(_hor * movespeed, _vert * movespeed, tilemap);
+move_and_collide(_hor * movespeed, _vert * movespeed, tilemap_array);
 
 if(_hor != 0 or _vert != 0) {
 	
