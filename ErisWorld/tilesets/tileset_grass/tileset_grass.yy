@@ -1,7 +1,12 @@
 {
   "$GMTileSet":"v1",
   "%Name":"tileset_grass",
-  "autoTileSets":[],
+  "autoTileSets":[
+    {"$GMAutoTileSet":"","%Name":"autotile_1","closed_edge":false,"name":"autotile_1","resourceType":"GMAutoTileSet","resourceVersion":"2.0","tiles":[
+        0,39,38,41,27,20,60,43,17,61,31,42,30,53,54,64,22,37,26,59,12,16,17,19,24,29,40,40,34,50,49,52,25,56,
+        11,15,13,18,35,51,33,48,14,44,36,46,47,
+      ],},
+  ],
   "macroPageTiles":{
     "SerialiseHeight":0,
     "SerialiseWidth":0,

@@ -1,7 +1,12 @@
 {
   "$GMTileSet":"v1",
   "%Name":"tileset_fences",
-  "autoTileSets":[],
+  "autoTileSets":[
+    {"$GMAutoTileSet":"","%Name":"autotile_1","closed_edge":false,"name":"autotile_1","resourceType":"GMAutoTileSet","resourceVersion":"2.0","tiles":[
+        0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,10,0,0,0,9,0,0,0,6,0,0,0,11,0,0,0,14,8,18,0,5,0,7,0,15,0,13,4,17,12,19,
+        16,
+      ],},
+  ],
   "macroPageTiles":{
     "SerialiseHeight":0,
     "SerialiseWidth":0,
