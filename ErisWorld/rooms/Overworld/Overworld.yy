@@ -19,7 +19,7 @@
           -45,-2147483648,1,5,-5,6,2,7,0,-32,-2147483648,1,10,-5,11,2,12,0,-32,-2147483648,8,15,16,16,11,16,16,
           17,0,-787,-2147483648,
         ],"TileDataFormat":1,},"tilesetId":{"name":"tileset_house_walls","path":"tilesets/tileset_house_walls/tileset_house_walls.yy",},"userdefinedDepth":false,"visible":true,"x":0,"y":0,},
-    {"$GMRTileLayer":"","%Name":"Fences","depth":300,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"layers":[],"name":"Fences","properties":[],"resourceType":"GMRTileLayer","resourceVersion":"2.0","tiles":{"SerialiseHeight":23,"SerialiseWidth":40,"TileCompressedData":[
+    {"$GMRTileLayer":"","%Name":"Tiles_Fences","depth":300,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"layers":[],"name":"Tiles_Fences","properties":[],"resourceType":"GMRTileLayer","resourceVersion":"2.0","tiles":{"SerialiseHeight":23,"SerialiseWidth":40,"TileCompressedData":[
           -102,-2147483648,1,17,-12,18,1,19,-449,-2147483648,1,5,-13,18,1,7,-39,-2147483648,1,8,-39,-2147483648,
           1,8,-39,-2147483648,1,8,-39,-2147483648,1,8,-39,-2147483648,1,8,-39,-2147483648,1,8,-100,-2147483648,
         ],"TileDataFormat":1,},"tilesetId":{"name":"tileset_fences","path":"tilesets/tileset_fences/tileset_fences.yy",},"userdefinedDepth":false,"visible":true,"x":0,"y":0,},
