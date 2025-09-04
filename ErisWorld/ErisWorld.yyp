@@ -46,6 +46,7 @@
     {"id":{"name":"spr_door_close","path":"sprites/spr_door_close/spr_door_close.yy",},},
     {"id":{"name":"spr_door_open","path":"sprites/spr_door_open/spr_door_open.yy",},},
     {"id":{"name":"spr_door","path":"sprites/spr_door/spr_door.yy",},},
+    {"id":{"name":"spr_e_input","path":"sprites/spr_e_input/spr_e_input.yy",},},
     {"id":{"name":"spr_fences","path":"sprites/spr_fences/spr_fences.yy",},},
     {"id":{"name":"spr_furniture","path":"sprites/spr_furniture/spr_furniture.yy",},},
     {"id":{"name":"spr_grass","path":"sprites/spr_grass/spr_grass.yy",},},
