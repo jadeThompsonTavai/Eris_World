@@ -1,6 +1,6 @@
-movespeed = 1;
+move_speed = 1;
 
-tilemap = layer_tilemap_get_id("Tiles_Fences");
+tilemap = layer_tilemap_get_id("Tiles_House");
 
 tilemap_array = 
 [
