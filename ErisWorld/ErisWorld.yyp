@@ -36,7 +36,8 @@
   "name":"ErisWorld",
   "resources":[
     {"id":{"name":"obj_player","path":"objects/obj_player/obj_player.yy",},},
-    {"id":{"name":"Overworld","path":"rooms/Overworld/Overworld.yy",},},
+    {"id":{"name":"rm_inside_house","path":"rooms/rm_inside_house/rm_inside_house.yy",},},
+    {"id":{"name":"rm_outside_house","path":"rooms/rm_outside_house/rm_outside_house.yy",},},
     {"id":{"name":"spr_black","path":"sprites/spr_black/spr_black.yy",},},
     {"id":{"name":"spr_dirt","path":"sprites/spr_dirt/spr_dirt.yy",},},
     {"id":{"name":"spr_doors","path":"sprites/spr_doors/spr_doors.yy",},},
@@ -64,7 +65,8 @@
   "resourceType":"GMProject",
   "resourceVersion":"2.0",
   "RoomOrderNodes":[
-    {"roomId":{"name":"Overworld","path":"rooms/Overworld/Overworld.yy",},},
+    {"roomId":{"name":"rm_outside_house","path":"rooms/rm_outside_house/rm_outside_house.yy",},},
+    {"roomId":{"name":"rm_inside_house","path":"rooms/rm_inside_house/rm_inside_house.yy",},},
   ],
   "templateType":"game",
   "TextureGroups":[
