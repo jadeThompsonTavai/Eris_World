@@ -38,6 +38,8 @@
   "name":"ErisWorld",
   "resources":[
     {"id":{"name":"obj_door","path":"objects/obj_door/obj_door.yy",},},
+    {"id":{"name":"obj_envelope_parent","path":"objects/obj_envelope_parent/obj_envelope_parent.yy",},},
+    {"id":{"name":"obj_envelope1","path":"objects/obj_envelope1/obj_envelope1.yy",},},
     {"id":{"name":"obj_player","path":"objects/obj_player/obj_player.yy",},},
     {"id":{"name":"rm_inside_house","path":"rooms/rm_inside_house/rm_inside_house.yy",},},
     {"id":{"name":"rm_outside_house","path":"rooms/rm_outside_house/rm_outside_house.yy",},},
@@ -47,6 +49,7 @@
     {"id":{"name":"spr_door_open","path":"sprites/spr_door_open/spr_door_open.yy",},},
     {"id":{"name":"spr_door","path":"sprites/spr_door/spr_door.yy",},},
     {"id":{"name":"spr_e_input","path":"sprites/spr_e_input/spr_e_input.yy",},},
+    {"id":{"name":"spr_envelope","path":"sprites/spr_envelope/spr_envelope.yy",},},
     {"id":{"name":"spr_fences","path":"sprites/spr_fences/spr_fences.yy",},},
     {"id":{"name":"spr_furniture","path":"sprites/spr_furniture/spr_furniture.yy",},},
     {"id":{"name":"spr_grass","path":"sprites/spr_grass/spr_grass.yy",},},

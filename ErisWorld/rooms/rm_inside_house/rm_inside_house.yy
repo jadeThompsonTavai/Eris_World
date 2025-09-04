@@ -8,6 +8,7 @@
   "instanceCreationOrder":[
     {"name":"inst_2BAC8C6D","path":"rooms/rm_inside_house/rm_inside_house.yy",},
     {"name":"inst_4E45E664","path":"rooms/rm_inside_house/rm_inside_house.yy",},
+    {"name":"inst_784E2406","path":"rooms/rm_inside_house/rm_inside_house.yy",},
   ],
   "isDnd":false,
   "layers":[
@@ -16,6 +17,7 @@
         {"$GMRInstance":"v2","%Name":"inst_4E45E664","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_4E45E664","objectId":{"name":"obj_door","path":"objects/obj_door/obj_door.yy",},"properties":[
             {"$GMOverriddenProperty":"v1","%Name":"","name":"","objectId":{"name":"obj_door","path":"objects/obj_door/obj_door.yy",},"propertyId":{"name":"room_to_travel","path":"objects/obj_door/obj_door.yy",},"resource":{"name":"rm_outside_house","path":"rooms/rm_outside_house/rm_outside_house.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"rm_outside_house",},
           ],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":152.0,"y":120.0,},
+        {"$GMRInstance":"v2","%Name":"inst_784E2406","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_784E2406","objectId":{"name":"obj_envelope1","path":"objects/obj_envelope1/obj_envelope1.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":116.0,"y":50.0,},
       ],"layers":[],"name":"Instances","properties":[],"resourceType":"GMRInstanceLayer","resourceVersion":"2.0","userdefinedDepth":false,"visible":true,},
     {"$GMRTileLayer":"","%Name":"Tiles_furniture","depth":100,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"layers":[],"name":"Tiles_furniture","properties":[],"resourceType":"GMRTileLayer","resourceVersion":"2.0","tiles":{"SerialiseHeight":23,"SerialiseWidth":40,"TileCompressedData":[
           -48,-2147483648,4,10,-2147483648,43,19,-3,0,-30,-2147483648,-2,0,5,33,0,-2147483648,-2147483648,28,-3,
