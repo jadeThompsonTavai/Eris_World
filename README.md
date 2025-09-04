@@ -25,4 +25,5 @@ Gift for a friend - Simple RPG with one quest line
 ## Milestones
 <ul>
   <li>03.09.25 - Emptry Project created</li>
+  <li>04.09.25 - Basic character movement and scene changing</li>
 </ul>
