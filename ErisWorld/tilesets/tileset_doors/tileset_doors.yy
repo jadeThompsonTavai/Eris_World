@@ -8,7 +8,7 @@
     "TileSerialiseData":[],
   },
   "name":"tileset_doors",
-  "out_columns":2,
+  "out_columns":1,
   "out_tilehborder":2,
   "out_tilevborder":2,
   "parent":{
@@ -18,8 +18,8 @@
   "resourceType":"GMTileSet",
   "resourceVersion":"2.0",
   "spriteId":{
-    "name":"spr_doors",
-    "path":"sprites/spr_doors/spr_doors.yy",
+    "name":"spr_door_open",
+    "path":"sprites/spr_door_open/spr_door_open.yy",
   },
   "spriteNoExport":false,
   "textureGroupId":{
@@ -34,5 +34,5 @@
   "tileWidth":16,
   "tilexoff":0,
   "tileyoff":0,
-  "tile_count":5,
+  "tile_count":1,
 }
